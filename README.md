@@ -4,12 +4,7 @@
 
 Este projeto foi desenvolvido em grupo com o objetivo de criar um protótipo de interface acessível para pessoas idosas, focando em melhorar a usabilidade e a acessibilidade em aplicativos. Através da prototipagem, conseguimos validar o design e a funcionalidade da interface antes do desenvolvimento completo, assegurando que a solução atende às necessidades do público-alvo.
 
-Integrantes do grupo: Daniela Abreu
-                      Lavínia Lucia
-                      Marcela Barbosa
-                      Matheus Lopes
-                      Nátali Isaltino
-                      Vinícius Rios
+Integrantes do grupo: Daniela Abreu, Lavínia Lucia, Marcela Barbosa, Matheus Lopes, Nátali Isaltinoe Vinícius Rios.
 
 ## Objetivo
 
