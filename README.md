@@ -29,10 +29,6 @@ Para garantir que a interface atende às necessidades dos usuários, seguimos as
 
 ## Demonstração Visual
 
-Imagens das principais telas estão incluídas neste repositório na pasta `/assets`, com uma breve descrição de cada uma para contextualizar o fluxo e as funcionalidades simuladas.
-
-## Conclusão e Próximos Passos
-
-A prototipagem nos permitiu validar as funcionalidades e o design propostos, garantindo que a interface seja intuitiva e acessível para o público-alvo. O próximo passo será implementar este protótipo em um MVP para realizar testes com usuários reais e ajustes finais.
+Imagens das principais telas estão incluídas neste repositório na pasta `/assets`.
 
 
